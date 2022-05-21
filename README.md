@@ -1,4 +1,18 @@
-# parameter_elimination_test
-When performing a data analysis, sometimes people come across a problem of checking null hypothesis for normality without knowing parameters of the distribution. 
+# PEM test library
+
+### Installation
+```python
+pip install pemtest
+```
+
+### What is PEM test?
+> When performing data analysis, sometimes people come across a problem of checking null hypothesis for normality without knowing parameters of the distribution. 
 In this case we should use tests like "Parameters Elimination Method". PEM test allows us to get rid of `mu` and `sigma^2` and move from performing a test for normality to 
-performing a test for uniform distribution with parameters 0, 1. 
+performing a test for uniform distribution with parameters 0, 1.
+
+### Looks hard. Will there be any further explanation?
+> Yes. You can read full documentation on the algorithm based on PEM test **[here](https://github.com/turkunov/pem-test/blob/main/algorithm_documentation.ipynb)**.
+
+### Who is the author of this method?
+> [turkunov @ Github](https://github.com/turkunov) (me) based on the research done by Sarkadi K. in "On testing for normality" (1960) [p. 269-275].
+
