@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pemtest",
-    version="0.0.1",
+    version="0.0.2",
     author="Turkunov",
     author_email="yaturkunov@gmail.com",
     description="\"Parameters Elimination Method\" Goodness-Of-Fit test for normality",
