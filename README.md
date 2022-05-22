@@ -16,6 +16,6 @@ performing a test for uniform distribution with parameters 0, 1.
 ### Are there any examples?
 > Yes, here's an interactive notebook with examples: https://colab.research.google.com/drive/15SR2hJpejqQ8G-I0SXk-WZMZUpsbUdAC?usp=sharing
 
-### Who is the author of this method?
-> [turkunov @ Github](https://github.com/turkunov) (me) based on the research done by Sarkadi K. in "On testing for normality" (1960) [p. 269-275].
+### Who is the author of this algorithm?
+> [turkunov @ Github](https://github.com/turkunov) (me). The algorithm is based on the research done by Sarkadi K. in "On testing for normality" (1960) [p. 269-275].
 
