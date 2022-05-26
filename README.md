@@ -7,7 +7,7 @@ pip install pemtest
 
 ### What is PEM test?
 > When performing data analysis, sometimes people come across a problem of checking null hypothesis for normality without knowing parameters of the distribution. 
-In this case we should use tests like "Parameters Elimination Method". PEM test allows us to get rid of `mu` and `sigma^2` and move from performing a test for normality to 
+In this case we should use tests like "Parameters Elimination Method". PEM test allows us to get rid of `mu` and `sigma` and move from performing a test for normality to 
 performing a test for uniform distribution with parameters 0, 1.
 
 ### Looks hard. Will there be any further explanation?
